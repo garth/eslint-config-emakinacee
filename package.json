@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-emakinacee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config for emakina cee",
   "main": "index.js",
   "author": "Thomas Peklak",
   "license": "MIT",
+  "repository": "git@github.com:the-diamond-dogs-group-oss/eslint-config-emakinacee.git",
   "dependencies": {
     "eslint": "^2.5.3",
     "eslint-plugin-promise": "^1.1.0",
