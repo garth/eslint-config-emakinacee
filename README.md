@@ -13,3 +13,11 @@ and React.
 
 1. `npm install --save-dev eslint-config-emakinacee`
 2. add `"extends": "emakinacee"` to your .eslintrc
+
+### eslint-config-emakinacee/angular
+
+Our default rules can be extended by our angular specific rules.
+
+1. `npm install --save-dev eslint-config-emakinacee`
+3. add `"extends": "emakinacee/angular"` to your .eslintrc
+
