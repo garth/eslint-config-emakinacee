@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-emakinacee",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "eslint config for emakina cee",
   "main": "index.js",
   "author": "Thomas Peklak",
